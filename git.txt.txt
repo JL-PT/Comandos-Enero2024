@@ -1,0 +1,6 @@
+Configuración (1 sola vez en su compu)
+Comandos para configurar 
+git config --global user.name "Tu nombre"
+git config --global user.email tucorreo@ejemplo.com
+
+git config --global --list: Despliega los datos de nombre y correo electrónico creado un paso más arriba.
